@@ -5,7 +5,7 @@ function Form() {
   // State to store form inputs
   const [formData, setFormData] = useState({
     name: "",
-    email: "",
+    //email: "",
     course: ""
   });
 
