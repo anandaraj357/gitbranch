@@ -7,6 +7,8 @@ function Form() {
     name: "",
     //email: "",
     course: ""
+    email: "",
+   /// course: ""
   });
 
   const [submittedData, setSubmittedData] = useState(null);
