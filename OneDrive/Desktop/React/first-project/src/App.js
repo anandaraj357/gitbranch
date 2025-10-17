@@ -15,6 +15,7 @@ function App() {
       <Counter />
       <Greet />
       <Demo />
+    <hi sir thinnara sir />
       <WeatherApp /> 
       <Application />
       <Form />
