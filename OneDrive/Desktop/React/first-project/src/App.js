@@ -11,7 +11,7 @@ import Rendering from "./Rendering";
 function App() {
   return (
     <div>
-      <Counter />
+     // <Counter />
       <Greet />
       <Demo />
       <WeatherApp /> 
