@@ -16,7 +16,7 @@ function App() {
       <Greet />
       <Demo />
       <WeatherApp /> 
-      <Application />
+    </Application />
       <Form />
       <Render />
       <StatusMessage/>
