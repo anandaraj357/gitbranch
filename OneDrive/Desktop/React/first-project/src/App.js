@@ -19,7 +19,7 @@ function App() {
       <Form />
       <Render />
       <StatusMessage/>
-      <Rendering/>
+    </Rendering/>
             </div>
   );
 }
